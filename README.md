@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francis951 and a Software Engineer
-- from ALX and RefactoryUg
+- from ALX(2023-2024) and RefactoryUg(2023)
 - 👀 I’m interested in web app programming.
 - 🌱 I’m love learning electronics and computer programming.
 - 💞️ I’m looking to collaborate on with anyone if contacted.
